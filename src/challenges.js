@@ -19,12 +19,18 @@ function splitSentence(phrase) {
 
 // Desafio 4
 function concatName(array) {
-  return (array[array.length - 1]) + ', ' + array[0];
+  return `${(array[array.length - 1])}, ${array[0]}`;
 }
 
 // Desafio 5
-function footballPoints() {
-  // seu código aqui
+function footballPoints(wins, ties) {
+  let pointsVictories = 0;
+  let pointsATie = 0;
+  let total = 0;
+  pointsVictories = wins * 3;
+  pointsATie = ties * 1;
+  total = pointsVictories + pointsATie;
+  return total;
 }
 
 // Desafio 6
