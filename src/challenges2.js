@@ -1,11 +1,12 @@
 // Desafio 11
 function generatePhoneNumber(array) {
+  if (array.length !== 11) {
+    return 'Array com tamanho incorreto.';
+  } 
   for (let index = 0; index < array.length; index += 1) {
-    if (array.length !== 11) {
-      return 'Array com tamanho incorreto.';
-    } else if (array[index] < 0 || array[index] > 9) {
-        return 'não é possível gerar um número de telefone com esses valores';
-      }
+    if (array[index] < 0 || array[index] > 9) {
+      return 'não é possível gerar um número de telefone com esses valores';
+    }
     }
     var repitido =[];
     for (let index = 0; index < array.length; index += 1) {
@@ -16,7 +17,7 @@ function generatePhoneNumber(array) {
         contador += 1;
         }
       }
-      if (contador >= 3) {
+            if (contador >= 3) {
         return 'não é possível gerar um número de telefone com esses valores';
       
     }
