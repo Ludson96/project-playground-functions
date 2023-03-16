@@ -483,8 +483,6 @@ Implemente a função `hydrate` que recebe uma string e retorna a sugestão de q
 </details>
 </details>
 
-<br/>
-
 > `Segundo` projeto na **Trybe**.
 
 [Code Runner]: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
