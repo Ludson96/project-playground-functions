@@ -38,6 +38,8 @@ Em uma simulação, fiquei responsável por implementar o código de funções q
 
 ## Requisitos
 
+<details>
+
 ### 1 - Crie uma função usando o operador &&
 
 <details>
@@ -478,6 +480,7 @@ Implemente a função `hydrate` que recebe uma string e retorna a sugestão de q
 
 </details>
 
+</details>
 </details>
 
 <br/>
