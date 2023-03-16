@@ -99,6 +99,7 @@ function encode(string) {
   }
   return codificar;
 }
+
 function decode(string) {
   let codificar = '';
   for (let index = 0; index < string.length; index += 1) {
