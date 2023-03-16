@@ -34,11 +34,11 @@ Em uma simulação, fiquei responsável por implementar o código de funções q
     cd project-playground-functions
     ```
 
-1. Utilize a extensão [Extensão Code Runner][Code Runner] para rodar executar as funções.Abaixo segue os requisitos propostos.
+1. Utilize a extensão [Extensão Code Runner][Code Runner] para rodar executar as funções. Abaixo segue os requisitos propostos.
 
-# Requisitos
+## Requisitos
 
-## 1 - Crie uma função usando o operador &&
+### 1 - Crie uma função usando o operador &&
 
 <details>
   <summary>
@@ -71,7 +71,7 @@ Se a função for chamada com os valores `girafa` e `elefante` como parâmetro, 
 
 </details>
 
-## 2 - Crie uma função que calcula a área de um triângulo
+### 2 - Crie uma função que calcula a área de um triângulo
 
 <details>
   <summary>
@@ -95,7 +95,7 @@ A função `calcArea` recebe o valor da base (`base`) e outro da altura (`height
 </details>
 
 
-## 3 - Crie uma função que divida uma frase
+### 3 - Crie uma função que divida uma frase
 
 <details>
   <summary>
@@ -118,7 +118,7 @@ A função `splitSentence` recebe uma string como parâmetro e deve retornar um 
 </details>
 
 
-## 4 - Crie uma função que use concatenação de strings
+### 4 - Crie uma função que use concatenação de strings
 
 <details>
   <summary>
@@ -142,7 +142,7 @@ A função `concatName` recebe um array de strings e deve retornar uma string co
 
 </details>
 
-## 5 - Crie uma função que calcula a quantidade de pontos em um campeonato de futebol
+### 5 - Crie uma função que calcula a quantidade de pontos em um campeonato de futebol
 
 <details>
   <summary>
@@ -168,7 +168,7 @@ A função `footballPoints` recebe o número de vitórias (`wins`) e o número d
 </details>
 
 
-## 6 - Crie uma função que calcula o número de repetições do maior número
+### 6 - Crie uma função que calcula o número de repetições do maior número
 
 <details>
   <summary>
@@ -194,7 +194,7 @@ A função deve retornar a quantidade de vezes que o **maior** número se repete
 </details>
 
 
-## 7 - Crie uma função de Caça ao Rato
+### 7 - Crie uma função de Caça ao Rato
 
 <details>
   <summary>
@@ -234,7 +234,7 @@ Exemplo:
 </details>
 
 
-## 8 - Crie uma função FizzBuzz
+### 8 - Crie uma função FizzBuzz
 
 <details>
   <summary>
@@ -263,7 +263,7 @@ Exemplo: caso o parâmetro seja [2, 15, 7, 9, 45], sua função deverá retornar
 </details>
 
 
-## 9 - Crie uma função que Codifique e Decodifique
+### 9 - Crie uma função que Codifique e Decodifique
 
 <details>
   <summary>
@@ -304,7 +304,7 @@ u -> 5
 </details>
 
 
-## 10 - Crie uma função de Lista de Tecnologias
+### 10 - Crie uma função de Lista de Tecnologias
 
 <details>
   <summary>
@@ -365,9 +365,9 @@ Por exemplo, se a função recebe os parâmetros `['React', 'Jest', 'HTML', 'CSS
 </details>
 
 
-# Requisitos Bônus
+## Requisitos Bônus
 
-## 11 - Crie uma função de número de telefone
+### 11 - Crie uma função de número de telefone
 
 <details>
   <summary>
@@ -397,7 +397,7 @@ Exemplo: caso o parâmetro da função seja `[1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 1]`,
 
 </details>
 
-## 12 - Crie uma função que teste a condição de existência de um triângulo
+### 12 - Crie uma função que teste a condição de existência de um triângulo
 
 <details>
   <summary>
@@ -432,7 +432,7 @@ Exemplo: o retorno de `triangleCheck(10, 14, 8)` deverá ser `true`.
 
 </details>
 
-## 13 - Crie uma função de boas vindas ao Bar da Trybe!
+### 13 - Crie uma função de boas vindas ao Bar da Trybe!
 
 <details>
   <summary>
