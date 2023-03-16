@@ -9,7 +9,7 @@
 - Este é um projeto desenvolvido para me ajudar a aprender `JavaScript`;
 - Primeiro projeto usando `JavaScript`;
 - Segundo projeto na **Trybe**;
-- Utilizei a extensão [Extensão Code Runner][Code Runner] executar minhas funções.
+- Utilizei a extensão [Code Runner][Code Runner] executar minhas funções.
 
 ## Linguagens e ferramentas usadas
 
@@ -34,7 +34,7 @@ Em uma simulação, fiquei responsável por implementar o código de funções q
     cd project-playground-functions
     ```
 
-1. Utilize a extensão [Extensão Code Runner][Code Runner] para rodar executar as funções. Abaixo segue os requisitos propostos.
+1. Utilize a extensão [Code Runner][Code Runner] para rodar executar as funções. Abaixo segue os requisitos propostos.
 
 ## Requisitos
 
