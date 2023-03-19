@@ -1,8 +1,8 @@
-# Repositório do projeto Playground Functions
+# Repositório do projeto Playground Functions 🛝
 
 ## Módulo: FUNDAMENTOS
 
- Repositório possuí projeto desenvolvido no período que estive na **Trybe**, abordando sobre conceitos de javascript, escrever funções a partir dos requisitos pedidos.
+ Repositório possuí projeto desenvolvido no período que estive na **Trybe**, abordando conceitos de javascript e escrever funções a partir dos requisitos pedidos.
 
 ## Informações de aprendizados
 
